@@ -3,4 +3,4 @@
 ### Author: Aymber McElroy 
 
 A map showing the tax rates for gross income, marital status and number of dependents. 
-<https://aymbermac.github.io/TaxDashboard/>
+<br><https://aymbermac.github.io/TaxDashboard/>
